@@ -1,0 +1,1 @@
+/home/dado/projects/rust/code_wars_exercises/rust/code_wars7/Sum_of_odd_numbers/target/debug/Sum_of_odd_numbers: /home/dado/projects/rust/code_wars_exercises/rust/code_wars7/Sum_of_odd_numbers/src/main.rs

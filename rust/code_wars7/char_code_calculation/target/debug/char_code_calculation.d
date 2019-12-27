@@ -1,0 +1,1 @@
+/home/dado/projects/rust/code_wars_exercises/rust/code_wars7/char_code_calculation/target/debug/char_code_calculation: /home/dado/projects/rust/code_wars_exercises/rust/code_wars7/char_code_calculation/src/main.rs

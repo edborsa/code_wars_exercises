@@ -1,0 +1,1 @@
+/home/dado/projects/rust/code_wars_exercises/rust/code_wars7/Elevator_Distance/target/debug/Elevator_Distance: /home/dado/projects/rust/code_wars_exercises/rust/code_wars7/Elevator_Distance/src/main.rs

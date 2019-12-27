@@ -1,0 +1,1 @@
+/home/dado/projects/rust/code_wars_exercises/rust/code_wars7/Special_numbers_series_6/target/debug/Special_numbers_series_6: /home/dado/projects/rust/code_wars_exercises/rust/code_wars7/Special_numbers_series_6/src/main.rs
